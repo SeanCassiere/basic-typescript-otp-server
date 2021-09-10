@@ -1,0 +1,25 @@
+{
+	"users": {
+		"6fd7ac7a-e214-43f9-b05b-5c31835e1b02": {
+			"id": "6fd7ac7a-e214-43f9-b05b-5c31835e1b02",
+			"firstName": "Sean",
+			"lastName": "Cassiere",
+			"age": 21,
+			"isOtpValidated": false,
+			"isSecretInvalid": false,
+			"isUsing2FA": false,
+			"temp_secret": {
+				"ascii": "SECRET",
+				"hex": "HEX",
+				"base32": "BASE32",
+				"otpauth_url": "OTP AUTH URI"
+			},
+			"secret": {
+				"ascii": "SECRET",
+				"hex": "HEX",
+				"base32": "BASE32",
+				"otpauth_url": "OTP AUTH URI"
+			}
+		}
+	}
+}

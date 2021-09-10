@@ -2,8 +2,9 @@
 	"name": "typescript-otp-2fa",
 	"version": "1.0.0",
 	"description": "",
-	"main": "out/index.js",
+	"main": "dist/index.js",
 	"scripts": {
+		"start": "node dist/index",
 		"build": "tsc",
 		"dev": "nodemon"
 	},
